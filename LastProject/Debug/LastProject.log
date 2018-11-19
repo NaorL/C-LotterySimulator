@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (LastProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.c
+d:\studies\first year\c\lotteryproject\lastproject\list.h(18): warning C4005: 'RAND_MAX': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(339): note: see previous definition of 'RAND_MAX'
+d:\studies\first year\c\lotteryproject\lastproject\main.c(11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\studies\first year\c\lotteryproject\lastproject\main.c(38): warning C4047: 'function': 'ParticipantList **' differs in levels of indirection from 'ParticipantList *'
+d:\studies\first year\c\lotteryproject\lastproject\main.c(38): warning C4024: 'printParticipantList': different types for formal and actual parameter 1
+  LastProject.vcxproj -> D:\Studies\First Year\C\LotteryProject\Debug\LotterySimulator.exe
+  LastProject.vcxproj -> D:\Studies\First Year\C\LotteryProject\Debug\LotterySimulator.pdb (Full PDB)
